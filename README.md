@@ -11,7 +11,7 @@ Olá! Me chamo Vitor, sou apaixonado por tecnologia e inovação. Tenho interess
 - **Python**
 - **SQL**
 - **NoSQL (JSON, Cypher)**
-<br/>
+
 
 ### Tecnologias e Ferramentas:
 
