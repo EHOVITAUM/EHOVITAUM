@@ -3,7 +3,7 @@
 
 ## Sobre Mim
 
-Olá! Me chamo Vitor, sou apaixonado por tecnologia e inovação. Tenho interesse em várias vertentes da área de dados. Atuo no meio acadêmico, cursando Big Data, busco constante aprendizado e aprimoramento para enfrentar desafios e contribuir para o avanço do meu conhecimento.
+Olá! Me chamo Vitor, sou apaixonado por dados e o poder que eles proporcionam. Tenho interesse em várias vertentes da área de dados. Atuo no meio acadêmico, cursando Big Data, busco constante aprendizado e aprimoramento para enfrentar desafios e contribuir para o avanço do meu conhecimento.
 
 ## Competências
 
