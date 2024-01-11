@@ -35,7 +35,11 @@ Olá! Me chamo Vitor, sou apaixonado por dados e o poder que eles proporcionam. 
 ## Áreas de Interesse:
 
 - **Data Science**
-- **Data Engineering** 
+- **Data Engineering**
+- **Cloud Computing**
+- **relational and non-relational dataBase** 
+ 
+
 <br/>
 
 ## Contato
