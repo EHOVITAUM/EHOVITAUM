@@ -37,7 +37,7 @@ Olá! Me chamo Vitor, sou apaixonado por dados e o poder que eles proporcionam. 
 - **Data Science**
 - **Data Engineering**
 - **Cloud Computing**
-- **relational and non-relational dataBase** 
+- **Relational and non-relational dataBase** 
  
 
 <br/>
