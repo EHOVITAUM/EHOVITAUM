@@ -22,7 +22,7 @@ Olá! Me chamo Vitor, sou apaixonado por dados e pelo poder que eles proporciona
 - **Machine Learning (IA)**
 - **NLP / LLM's (Processamento de Linguagem Natural / Large Language Models )**
 - **Vector Databases**
-- **Data Architectures (Data Warehouse, Data Lake, Data Mesh, Data Vault)**
+- **Data Architectures (Data Warehouse, Data Lake, Data Mesh, Data LakeHouse, Data Vault)**
 - **IAC (Infrastructure as Code)**
 
 <br/>
