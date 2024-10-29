@@ -15,13 +15,11 @@ Olá! Me chamo Vitor, sou apaixonado por dados e pelo poder que eles proporciona
 
 ### Tecnologias e Ferramentas:
 
-- **AWS Cloud**
-- **GCP**
 - **Azure Cloud**
-- **PySpark**
-- **Machine Learning (IA)**
+- **AWS Cloud**
 - **NLP / LLM's (Processamento de Linguagem Natural / Large Language Models )**
-- **Vector Databases**
+- **Machine Learning (IA)**
+- **PySpark**
 - **Data Architectures (Data Warehouse, Data Lake, Data Mesh, Data LakeHouse, Data Vault)**
 - **IAC (Infrastructure as Code)**
 
