@@ -20,7 +20,7 @@ Olá! Me chamo Vitor, sou apaixonado por dados e pelo poder que eles proporciona
 - **NLP / LLM's (Processamento de Linguagem Natural / Large Language Models )**
 - **Machine Learning (IA)**
 - **PySpark**
-- **Data Architectures (Data Warehouse, Data Lake, Data Mesh, Data LakeHouse, Data Vault)**
+- **Data Architectures (Data Warehouse, Data Lake, Data LakeHouse)**
 - **IAC (Infrastructure as Code)**
 
 <br/>
@@ -32,10 +32,9 @@ Olá! Me chamo Vitor, sou apaixonado por dados e pelo poder que eles proporciona
 
 ## Áreas de Interesse:
 
-- **Data Science**
 - **LLM Engineering**
-- **Data Engineering**
-- **Cloud Computing**
+- **Data Science**
+
  
 
 <br/>
